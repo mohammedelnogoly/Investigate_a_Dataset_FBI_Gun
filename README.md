@@ -3,7 +3,6 @@
 # Investigate-FBI-Gun-Data
 
 This project explores trends of U.S gun purchases and its relationship with census variables transformed, combined and visualized gun and census datasets using NumPy, Pandas and Matplotlib
-FBI Gun and census data are two independent table. Their common variables/value include state of United States and year month, which requires data cleaning at first. I joined these two dataset to see the relationship between gun purchase and census variable.
 
 # Conclusion
 
